@@ -3,7 +3,7 @@
 
 [ejercicio_2](https://github.com/angelaserantes/Ejercicios_semana_3/blob/master/src/com/ejercios/ejercicios_semana_3/ejercicio2.java)
 
-[ejercicio_3](https://github.com/angelaserantes/Ejercicios_semana_3/blob/master/src/com/ejercios/ejercicios_semana_3/ejercicio2.java)
+[ejercicio_3](https://github.com/angelaserantes/Ejercicios_semana_3/blob/master/src/com/ejercios/ejercicios_semana_3/ejercicio3.java)
 
 [ejercicio_4](https://github.com/angelaserantes/Ejercicios_semana_3/blob/master/src/com/ejercios/ejercicios_semana_3/ejercicio4.java)
 
