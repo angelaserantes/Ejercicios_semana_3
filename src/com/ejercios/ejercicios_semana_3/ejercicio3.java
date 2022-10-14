@@ -11,4 +11,5 @@ public class ejercicio3 {
 
 /*Crea un programa que, dado un valor fijo de un nombre, una localidad y un
 gusto, los muestre por pantalla
-Pista: “Hola, mi nombre es “ + variable1 + “\nSoy de”+...*/
+Pista: “Hola, mi nombre es “ +
+ variable1 + “\nSoy de”+...*/
